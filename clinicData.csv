@@ -1,0 +1,61 @@
+group,,name,generative,age,PD depth,mSBI score,SBI score,MBL count,PLI score,BOP probing,CAL score,FMBS score
+health person,,Zhu Weijun,male,25,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Zhou Yi,male,26,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Liang Mengmeng,female,26,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Xie Mengying,female,30,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Zhang Qianmei,female,24,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Zhao Xueqian,female,29,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Wang Jingjing,female,32,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Li Jia,female,25,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Zeng Runxi,female,26,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Deng Junjie,male,24,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Huang Xinyue,female,27,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Xiong Yaling,female,24,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Zhang Chunmei,female,24,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+health person,,Liao Bingxing,female,21,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Chen Guangcheng,male,26,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Zhu Yixin,male,29,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Si Xiang,male,36,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Liang Yichang,male,33,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,high strength,male,37,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Feng Yan,female,40,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Xu Xing,male,31,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Leaky Moon Red,female,36,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Sun Shichuan,male,71,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Liu Yansheng,male,33,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Kim Eun Lian,female,37,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Han Xiaofen,female,54,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Chen Lingyu,male,23,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Chen Xiaoping,female,35,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Pang Hai,male,35,<1mm,0,0,<0.5mm,0,-,<1mm,<1
+Healthy implants,,Xu Meiying,female,67,<1mm,0,0,<0.5mm,0,+,<1mm,<1
+Peri-implant mucositis,,Chen Siyu,female,31,1.2mm,1,2,1.8mm,0,+,2mm,1
+Peri-implant mucositis,,Yang Xiaodong,male,35,2.5mm,1,3,1.2mm,2,+,1mm,1
+Peri-implant mucositis,,Duan Haishan,male,30,1.7mm,1,1,0.9mm,1,+,1-2mm,1
+Peri-implant mucositis,,Zhu Wenfa,male,33,1.9mm,1,2,1.1mm,1,+,>2mm,1
+Peri-implant mucositis,,Zeng Fan,male,34,2.2mm,1,1,0.7mm,0,+,1-2mm,1
+Peri-implant mucositis,,Li Chao,male,32,1.3mm,1,2,1.2mm,2,+,1-2mm,1
+Peri-implant mucositis,,Jiang Ling,female,37,1mm,1,4,1.3mm,1,+,>2mm,0
+Peri-implant mucositis,,Zhang Yuan,female,41,2.1mm,1,3,1.6mm,1,+,1-2mm,1
+Peri-implant mucositis,,Zhou Han,male,34,2.4mm,1,1,1.0mm,2,+,>2mm,1
+Peri-implant mucositis,,Sheng Chonghua,male,43,2.7mm,1,2,2.2mm,1,+,1-2mm,1
+Peri-implant mucositis,,Chen Jingnan,male,29,1.9mm,1,3,1.8mm,2,+,1-2mm,0
+Peri-implant mucositis,,Cheng Zhigang,male,35,2.3mm,1,1,0.9mm,1,+,1-2mm,1
+Peri-implant mucositis,,Fang Chao,male,37,1.5mm,1,2,1.2mm,1,+,1-2mm,1
+Peri-implant mucositis,,Zhai Shaohua,male,31,2.6mm,1,3,1.7mm,2,+,1-2mm,1
+Peri-implant mucositis,,Li Jianrong,male,36,1.4mm,1,4,1.9mm,0,+,1-2mm,1
+peri-implantitis,,Pang Hai,male,35,>4mm,2,4,5mm,1,+,6mm,1
+peri-implantitis,,Xin Meili,female,73,4.5mm,3,4,4~5mm,2,+,5mm,2
+peri-implantitis,,Lou Tianming,male,49,>4mm,3,3,>4mm,2,+,6mm,2
+peri-implantitis,,Lou Shengjun,male,45,3.4mm,2,3,4.5mm,1,+,4mm,1
+peri-implantitis,,Li Jie,male,38,>4mm,3,4,4.5mm,2,+,5mm,2
+peri-implantitis,,Han Lei,male,44,3.4mm,3,,4.5mm,1,+,4mm,2
+peri-implantitis,,Hong Yun,male,49,4.5mm,2,,>4mm,2,+,6mm,1
+peri-implantitis,,Liang Jianwei,male,55,>4mm,2,,4.5mm,2,+,4mm,
+peri-implantitis,,Pan Weicheng,male,59,3.5mm,3,,4.5mm,1,+,4mm,2
+peri-implantitis,,Wu Qingfang,female,41,>4mm,2,,5mm,1,+,5mm,2
+peri-implantitis,,Yan Lili,female,38,4.5mm,2,,4.5mm,2,+,6mm,2
+peri-implantitis,,Zhou Dongqiao,male,35,4.5mm,3,,4.5mm,2,+,5mm,2
+peri-implantitis,,Huang Shoujiang,male,39,3.5mm,2,,>4mm,2,+,4mm,<1
+peri-implantitis,,Lai Xiaorong,female,40,3.5mm,3,,>4mm,1,+,6mm,1
+peri-implantitis,,Cheng Lifang,female,38,>4mm,3,,5mm,2,+,5mm,2
