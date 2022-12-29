@@ -11,3 +11,11 @@ We require association analysis and machine learning prediction models for the f
 
 ## Introduction
 The oral microbiome is one of the most important and complex microbial communities in the human body and is also one of the five research priorities (oral cavity, nasal cavity, vagina, intestine, skin) of the human microbiome project (HMP)
+
+### Steps
+* Load the data
+* Create training and test split
+* Perform feature scaling
+* Instantiate an SVC classifier
+* Fit the model
+* Measure the model performance
