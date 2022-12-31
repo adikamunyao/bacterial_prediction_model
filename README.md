@@ -10,6 +10,5 @@ We require association analysis and machine learning prediction models for the f
 * Load the data
 * Create training and test split
 * Perform feature scaling
-* Instantiate an SVC classifier
 * Fit the model
 * Measure the model performance
