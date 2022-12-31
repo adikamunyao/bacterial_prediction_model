@@ -6,9 +6,6 @@ The general idea was that 60 patients were selected for sampling, clinical data 
 
 We require association analysis and machine learning prediction models for the four species such as Bacteria fungi association degree analysis followed by machine learning with fungal, viral, bacterial, and archaeal data. With a little bit more of the algorithm. But it is best if there can be more than 4 algorithms.
 
-## Introduction
-The oral microbiome is one of the most important and complex microbial communities in the human body and is also one of the five research priorities (oral cavity, nasal cavity, vagina, intestine, skin) of the human microbiome project (HMP)
-
 ### Steps
 * Load the data
 * Create training and test split
